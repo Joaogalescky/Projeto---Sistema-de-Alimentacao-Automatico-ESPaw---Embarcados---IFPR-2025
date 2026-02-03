@@ -43,3 +43,7 @@ Projeto disponível publicamente no [Wokwi](https://wokwi.com/projects/449906774
 ## Autores
 - [Gabriel Albuquerque](https://github.com/Gadsz)  
 - [João Vitor Campõe Galescky](https://github.com/Joaogalescky)
+
+## IFPR
+
+[![IFPR Logo](https://user-images.githubusercontent.com/126702799/234438114-4db30796-20ad-4bec-b118-246ebbe9de63.png)](https://user-images.githubusercontent.com/126702799/234438114-4db30796-20ad-4bec-b118-246ebbe9de63.png)
