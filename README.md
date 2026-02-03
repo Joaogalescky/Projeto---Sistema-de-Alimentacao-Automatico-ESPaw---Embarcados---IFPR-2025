@@ -16,6 +16,8 @@ Desenvolver um sistema IoT com o ESP-32 para um Alimentador com um bot telegram 
 - Realizar o teste do protótipo final no Wokwi, obtendo a resposta dos níveis via bot telegram aos usuários cadastrados. 
 
 ## Arquitetura do Sistema
+![diagrama_da_arquitetura_plantuml](https://github.com/Joaogalescky/Projeto---Sistema-de-Alimentacao-Automatico-ESPaw---Embarcados---IFPR-2025/blob/main/diagrama_arquitetura_sistema.png)
+<p align="center"> <b>Fonte:</b> Autores (2025)<p>
 
 ## Componentes Utilizados
 - 1x ESP-32.
@@ -26,7 +28,6 @@ Desenvolver um sistema IoT com o ESP-32 para um Alimentador com um bot telegram 
 - 1x painel OLED Monocromático de 128x64.
 
 ## Como Executar o Projeto
-
 
 ### Pré-requisitos
 - **Wokwi**  
